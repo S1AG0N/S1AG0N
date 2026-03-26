@@ -1,16 +1,44 @@
-## Hi there 👋
+# phil
 
-<!--
-**S1AG0N/S1AG0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+phil — developer in progress, based in Carlisle, UK
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stack
+
+```
+Language   C#
+Framework  ASP.NET MVC · .NET Framework
+Database   SQL Server
+Tools      Visual Studio 2022 · Git
+```
+
+---
+
+## currently
+
+- building with **C# / ASP.NET MVC**
+- sharpening backend fundamentals — OOP, database integration, MVC patterns
+- open to junior dev roles and opportunities
+
+---
+
+## projects
+
+| repo | description |
+|------|-------------|
+| `NewsletterAppMVC` | ASP.NET MVC newsletter signup app with SQL Server integration |
+| `CarInsuranceQuoteSystem` | ASP.NET MVC app that calculates insurance quotes from user input + admin view for issued quotes |
+
+---
+
+## contact
+
+open to work — feel free to reach out
+
+---
+
+*learning in public. shipping things. keeping it moving.*
