@@ -1,10 +1,3 @@
-# phil
-
-```bash
-> whoami
-phil — developer in progress, based in Carlisle, UK
-```
-
 ---
 
 ## stack
@@ -15,6 +8,12 @@ Framework  ASP.NET MVC · .NET Framework
 Database   SQL Server
 Tools      Visual Studio 2022 · Git
 ```
+## projects
+
+| repo | description |
+|------|-------------|
+| `NewsletterAppMVC` | ASP.NET MVC newsletter signup app with SQL Server integration |
+| `CarInsuranceQuoteSystem` | ASP.NET MVC app that calculates insurance quotes from user input + admin view for issued quotes
 
 ---
 
@@ -25,13 +24,6 @@ Tools      Visual Studio 2022 · Git
 - open to junior dev roles and opportunities
 
 ---
-
-## projects
-
-| repo | description |
-|------|-------------|
-| `NewsletterAppMVC` | ASP.NET MVC newsletter signup app with SQL Server integration |
-| `CarInsuranceQuoteSystem` | ASP.NET MVC app that calculates insurance quotes from user input + admin view for issued quotes |
 
 ---
 
